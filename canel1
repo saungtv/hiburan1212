@@ -1,322 +1,257 @@
+#EXTM3U
 
+#EXTINF:-1,
+#EXTINF:-1,SONY TEN1
+http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34486
+#EXTINF:-1,SONY TEN2
+http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34485
+#EXTINF:-1,SONY TEN3
+http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34484
+#EXTINF:-1,SONY ESPN
+http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34495
+#EXTINF:-1,SONY SIX
+http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34494
+
+#EXTINF:-1,RCTI
+http://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:0,INDOSIAR
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+
+#EXTINF:-1,IndosiarHD
+http://203.153.218.26:9981/stream/channelid/1446651279?ticket=CC317AF18F254D5820CE85F4F8B4DC481312D685&profile=pass
+#EXTINF:-1,MNCTV
+http://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+
+#EXTINF:-1,G_TV
+http://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+
+#EXTINF:-1,TransTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_b384000_sleng.m3u8
+
+#EXTINF:-1,Trans7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_b384000_sleng.m3u8
+
+#EXTINF:-0,RTM1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-0,RTM2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1,RTM.Sport
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+#EXTINF:0,TV3
+http://iptv.rent:8080/4tvd2a9bb/ypwa70xqkd/7756
+#EXTINF:-1,SCTV
+http://202.80.222.171/000001/2/ch15010918464887721048/1001.m3u8?IASHttpSessionId=OTT21987201905040857049764703&ztecid=ch15010918464887721048&bandwidth=1100904&ispcode=1&timeformat=local&channel=ch15010918464887721048&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjUvMTAyNC5tM3U4&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ANTV 
+http://202.80.222.170/000001/2/ch14061215034900095272/1001.m3u8?IASHttpSessionId=OTT220062019050409355310556032&ztecid=ch14061215034900095272&bandwidth=1100904&ispcode=1&timeformat=local&channel=ch14061215034900095272&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMjIvMTAyNC5tM3U4&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/TENHD1.png" group-title="Sport",Sony Ten 1 HD
+http://tv11.roarzone.info:8080/live/ten1-ebx/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/TENHD2.png" group-title="Sport",Sony Ten 2 HD
+http://tv11.roarzone.info:8080/live/ten2-ebx/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/TENHD3.png" group-title="Sport",Sony Ten 3 HD
+http://tv11.roarzone.info:8080/live/ten3-ebx/chunks.m3u8
+#EXTINF:-1,Trans 7 FHD
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="Biznet - Lifestyle HD" tvg-logo="" group-title="Entertainment",Biznet - Lifestyle HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1946.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Biznet - Kids" tvg-logo="" group-title="Kids",Biznet - Kids
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1945.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UFC Fight Pass" tvg-logo="" group-title="Sports",UFC Fight Pass
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1975.ts
-#EXTINF:-1 tvg-ID="" tvg-name="WWE US" tvg-logo="" group-title="Entertainment",WWE US
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1943.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SKY Sport MotoGP" tvg-logo="" group-title="Sports",SKY Sport MotoGP
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1932.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SKY Sport F1" tvg-logo="" group-title="Sports",SKY Sport F1
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1931.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI Sport HD" tvg-logo="" group-title="Sports",TVRI Sport HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1965.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA TV" tvg-logo="" group-title="Sports",NBA TV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1901.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MU TV" tvg-logo="" group-title="Sports",MU TV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1893.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="" group-title="Sports",ESPN 2
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1889.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Chelsea TV" tvg-logo="" group-title="Sports",Chelsea TV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1892.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Real Madrid TV" tvg-logo="" group-title="Sports",Real Madrid TV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1952.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony ESPN HD" tvg-logo="" group-title="Sports",Sony ESPN HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1950.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Six HD" tvg-logo="" group-title="Sports",Sony Six HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1949.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sport 1" tvg-logo="" group-title="Sports",Skynet Sport 1
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2010.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sport 2" tvg-logo="" group-title="Sports",Skynet Sport 2
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2011.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sport 3" tvg-logo="" group-title="Sports",Skynet Sport 3
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2012.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sport 4" tvg-logo="" group-title="Sports",Skynet Sport 4
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2013.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sport 5" tvg-logo="" group-title="Sports",Skynet Sport 5
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2014.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sport 6" tvg-logo="" group-title="Sports",Skynet Sport 6
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2015.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1 HD" tvg-logo="" group-title="Sports",Arena Sport 1 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2029.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2 HD" tvg-logo="" group-title="Sports",Arena Sport 2 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2030.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3 HD" tvg-logo="" group-title="Sports",Arena Sport 3 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2031.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4 HD" tvg-logo="" group-title="Sports",Arena Sport 4 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2032.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ad Sport 2" tvg-logo="" group-title="Sports",Ad Sport 2
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1996.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ad Sport 1" tvg-logo="" group-title="Sports",Ad Sport 1
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1997.ts
-#EXTINF:-1 tvg-ID="" tvg-name="True Sport 1 HD" tvg-logo="" group-title="Sports",True Sport 1 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1988.ts
-#EXTINF:-1 tvg-ID="" tvg-name="True Sport 2 HD" tvg-logo="" group-title="Sports",True Sport 2 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1989.ts
-#EXTINF:-1 tvg-ID="" tvg-name="True Sport 3 HD" tvg-logo="" group-title="Sports",True Sport 3 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1990.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 1 HD" tvg-logo="" group-title="Sports",Fox Sport 1 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1971.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 2 HD" tvg-logo="" group-title="Sports",Fox Sport 2 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1972.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 3 HD" tvg-logo="" group-title="Sports",Fox Sport 3 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1973.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="Sports",BT Sport 1 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1976.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="Sports",BT Sport 2 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1977.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BeiN Sport 1" tvg-logo="" group-title="Sports",BeiN Sport 1
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1874.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BeiN Sport 2" tvg-logo="" group-title="Sports",BeiN Sport 2
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1875.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BeiN Sport 3" tvg-logo="" group-title="Sports",BeiN Sport 3
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1900.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BeiN Sport 4" tvg-logo="" group-title="Sports",BeiN Sport 4
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2000.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BeiN Sport 5" tvg-logo="" group-title="Sports",BeiN Sport 5
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2001.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BeiN Sport 6" tvg-logo="" group-title="Sports",BeiN Sport 6
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2002.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BeiN Sport 7" tvg-logo="" group-title="Sports",BeiN Sport 7
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2003.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BeiN Sport 8" tvg-logo="" group-title="Sports",BeiN Sport 8
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2004.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BeiN Sport 9" tvg-logo="" group-title="Sports",BeiN Sport 9
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2005.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BeiN Sport 10" tvg-logo="" group-title="Sports",BeiN Sport 10
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2006.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 1 HD" tvg-logo="" group-title="Sports",Sony Ten 1 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1968.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 2 HD" tvg-logo="" group-title="Sports",Sony Ten 2 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1969.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="Sports",Sony Ten 3 HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1970.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN HD" tvg-logo="https://gg.gg/sony-espn" group-title="Sports",ESPN HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1864.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Local - SCTV" tvg-logo="" group-title="Local",Local - SCTV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1986.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Local - RTV" tvg-logo="" group-title="Local",Local - RTV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1985.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Local - Kompas TV" tvg-logo="" group-title="Local",Local - Kompas TV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1981.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Local - JAK TV" tvg-logo="" group-title="Local",Local - JAK TV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1984.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Local - RCTI" tvg-logo="" group-title="Local",Local - RCTI
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1935.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Local - Indosiar" tvg-logo="" group-title="Local",Local - Indosiar
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1995.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LOCAL - TV One" tvg-logo="" group-title="Local",LOCAL - TV One
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1926.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LOCAL - TransTV" tvg-logo="" group-title="Local",LOCAL - TransTV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1919.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LOCAL - Trans7" tvg-logo="" group-title="Local",LOCAL - Trans7
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1918.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LOCAL - Global TV" tvg-logo="" group-title="Local",LOCAL - Global TV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1921.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LOCAL - ANTV" tvg-logo="" group-title="Local",LOCAL - ANTV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1920.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Local - Net TV" tvg-logo="" group-title="Local",Local - Net TV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1870.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Local - MNC TV" tvg-logo="" group-title="Local",Local - MNC TV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1869.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Local - Metro TV" tvg-logo="" group-title="Local",Local - Metro TV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1867.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Local - Berita Satu" tvg-logo="" group-title="Local",Local - Berita Satu
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1868.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Local - CNN Indonesia" tvg-logo="" group-title="Local",Local - CNN Indonesia
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - TRANS TV" tvg-logo="" group-title="Local 2",Local - TRANS TV
-http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, 3HD
+http://livesport2018.dyndns.tv:1935/trans/3hd-1080p/chunklist.m3u8
+#EXTINF:0, 5HD
+http://livesport2018.dyndns.tv:1935/trans/5hd-1080p/chunklist.m3u8
+#EXTINF:0, 7HD
+http://livesport2018.dyndns.tv:1935/trans/7hd-1080p/chunklist.m3u8
+#EXTINF:0, MCOT HD
+http://livesport2018.dyndns.tv:1935/trans/mcothd-1080p/chunklist.m3u8
+#EXTINF:0, TPBS HD
+http://livesport2018.dyndns.tv:1935/trans/tpbs-1080p/chunklist.m3u8
+#EXTINF:0, ONE HD
+http://livesport2018.dyndns.tv:1935/trans/one-1080p/chunklist.m3u8
+#EXTINF:0, PPTV HD
+http://livesport2018.dyndns.tv:1935/trans/pptv-1080p/chunklist.m3u8
+#EXTINF:0, AMARIN HD
+http://livesport2018.dyndns.tv:1935/trans/ama-1080p/chunklist.m3u8
+#EXTINF:0,THAIRATH HD
+http://livesport2018.dyndns.tv:1935/trans/tha-1080p/chunklist.m3u8
+#EXTINF:0, MONO29 HD
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:0, THAIRATH HD
+http://livesport2018.dyndns.tv:1935/trans/tha-1080p/chunklist.m3u8
+#EXTINF:0, CH8
+http://stream.rs.co.th/ch8-hi/index.m3u8
+#EXTINF:0, CH2
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:0, CARTOON CLUB
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:0, FOXTHAI
+http://27.254.149.109:8081/bypass/Foxthai/chunklist.m3u8
+#EXTINF:0, FOXCRIME
+http://27.254.149.109:8081/bypass/Foxcrime/chunklist.m3u8
+#EXTINF:0, TRUE Sport HD1
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+#EXTINF:0, TRUE Sport HD2
+http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
+#EXTINF:0,TRUE Sport HD3
+http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
+#EXTINF:0, TRUE Sport HD4
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:0, TRUE Sport 2
+http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
+#EXTINF:0,TRUE Sport 5
+http://103.208.24.234:1935/thaisport/sd-tsport5.stream/chunklist.m3u8
+#EXTINF:0,TRUE Sport 6
+http://103.208.24.234:1935/thaisport/sd-tsport6.stream/chunklist.m3u8
+#EXTINF:0,TRUE Sport 7
+http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
+#EXTINF:0, TENNIS
+http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
+#EXTINF:0, GOLF
+http://103.208.24.234:1935/thaisport/hd-golf.stream/chunklist.m3u8
+#EXTINF:0, NBA
+http://103.208.24.234:1935/thaisport/hd-nba.stream/chunklist.m3u8
+#EXTINF:0, SKYNET-SPORT-HD
+http://103.208.24.234:1935/live1/SKYNET-SPORT-HD.stream/playlist.m3u8
+#EXTINF:0, SKYNET-SPORT-1
+http://103.208.24.234:1935/live1/SKYNET-SPORT-1.stream/playlist.m3u8
+#EXTINF:0, SKYNET-SPORT-2
+http://103.208.24.234:1935/live1/SKYNET-SPORT-2.stream/playlist.m3u8
+#EXTINF:0, SKYNET-SPORT-3
+http://103.208.24.234:1935/live1/SKYNET-SPORT-3.stream/playlist.m3u8
+#EXTINF:0, SKYNET-SPORT-4
+http://103.208.24.234:1935/live1/SKYNET-SPORT-4.stream/playlist.m3u8
+#EXTINF:0, SKYNET-SPORT-5
+http://103.208.24.234:1935/live1/SKYNET-SPORT-5.stream/playlist.m3u8
+#EXTINF:0, SKYNET-SPORT-6
+http://103.208.24.234:1935/live1/SKYNET-SPORT-6.stream/playlist.m3u8
+#EXTINF:0, BEIN1 LAOSAT
+http://103.208.24.234:1935/live1/RkodiLive1.stream/playlist.m3u8
+#EXTINF:0, BEIN2 LAOSAT
+http://103.208.24.234:1935/live1/RkodiLive2.stream/playlist.m3u8
+#EXTINF:0, SONY TEN1HD
+http://103.208.24.234:1935/live1/RkodiLive4.stream/playlist.m3u8
+#EXTINF:0, SPORTS
+http://103.208.24.234:1935/live1/RkodiLive5.stream/playlist.m3u8
+#EXTINF:0, FIGHT SPORTS
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:0, KIX
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+#EXTM3U
+#EXTINF:-1,LIGA 1
+https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - TRANS TV HD" tvg-logo="" group-title="Local 2",Local - TRANS TV HD
-http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+#EXTINF:-1,RTM SPORTS HD
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - RCTI" tvg-logo="" group-title="Local 2",Local - RCTI
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ZIGGO SPORTS
+http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - SCTV" tvg-logo="" group-title="Local 2",Local - SCTV
-http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MATч SPORT 1
+https://mmm.sport7.biz/lba/MGQ5YmU5OThhN2I4MTk2NTg3YTA4ZGVmNjZmYjA2YmU=/g11/mfootball1.m3u8?token=MGQ5YmU5OThhN2I4MTk2NTg3YTA4ZGVmNjZmYjA2YmU=&id=ODU4NTVmZDJjMmI4YTI4ZTk1ZjY4NDljNDBkN2VhNTU=&vip=1570844616&dip=ZTk3OThlZjc1ZDhjYzMyY2FiZTI4YmZiMDZkYjhhYTk=&pip=180.246.149.4&hip=OTE2YWFiMGJjMzA4YWJjMWZiNzYyMmMzNzMyZmJlYjA=
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - INDOSIAR" tvg-logo="" group-title="Local 2",Local - INDOSIAR
-http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MATч SPORT 1 HD
+http://persik.by/stream/3602/287583/10266.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - ANTV" tvg-logo="" group-title="Local 2",Local - ANTV
-http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,SUPERSOCCER
+http://210.210.155.35/uq2663/h/h20/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - GLOBAL TV" tvg-logo="" group-title="Local 2",Local - GLOBAL TV
-http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,SETANTA SPORTS 1
+http://ott-cdn.ucom.am/s81/03.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - NET TV HD" tvg-logo="" group-title="Local 2",Local - NET TV HD
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1,SETANTA SPORTS 1 HD
+http://ott-cdn.ucom.am/s81/04.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - MNC TV" tvg-logo="" group-title="Local 2",Local - MNC TV
-http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,SETANTA SPORTS 1
+http://92.43.140.204:80/s81/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - RAJAWALI TV" tvg-logo="" group-title="Local 2",Local - RAJAWALI TV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,SETANTA SPORTS 2
+http://92.43.140.200/s82/04.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - KOMPAS TV" tvg-logo="" group-title="Local 2",Local - KOMPAS TV
-http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Fox Sports News Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - METRO TV" tvg-logo="" group-title="Local 2",Local - METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1,Bein Sport HD1 720P
+http://linux-app.tv:6204/MUHAMAD13929292/Mahshshshdj13333/28374
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - TV ONE" tvg-logo="" group-title="Local 2",Local - TV ONE
-http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Bein Sport HD2 720P
+http://linux-app.tv:6204/MUHAMAD13929292/Mahshshshdj13333/28375
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - BERITA SATU" tvg-logo="" group-title="Local 2",Local - BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1,Bein Sport HD3 720P
+http://linux-app.tv:6204/MUHAMAD13929292/Mahshshshdj13333/28376
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - CNN INDONESIA" tvg-logo="" group-title="Local 2",Local - CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,Bein Sport HD4 720P
+http://linux-app.tv:6204/MUHAMAD13929292/Mahshshshdj13333/28377
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - INEWS" tvg-logo="" group-title="Local 2",Local - INEWS
-http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Bein Sport HD5 720P
+http://linux-app.tv:6204/MUHAMAD13929292/Mahshshshdj13333/28378
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - TVRI" tvg-logo="" group-title="Local 2",Local - TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1,Bein Sport HD6 720P
+http://linux-app.tv:6204/MUHAMAD13929292/Mahshshshdj13333/28379
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - INTV" tvg-logo="" group-title="Local 2",Local - INTV
-http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF:-1,Bein Sport HD7 720P
+http://linux-app.tv:6204/MUHAMAD13929292/Mahshshshdj13333/28380
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - JAK TV" tvg-logo="" group-title="Local 2",Local - JAK TV
-http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Bein Sport HD8 720P
+http://linux-app.tv:6204/MUHAMAD13929292/Mahshshshdj13333/28381
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - BALI TV" tvg-logo="" group-title="Local 2",Local - BALI TV
-http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Bein Sport HD9 720P
+http://linux-app.tv:6204/MUHAMAD13929292/Mahshshshdj13333/28382
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - RRI TV" tvg-logo="" group-title="Local 2",Local - RRI TV
-http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1,Bein Sport HD10 720P
+http://linux-app.tv:6204/MUHAMAD13929292/Mahshshshdj13333/28383
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - DANGDUT" tvg-logo="" group-title="Local 2",Local - DANGDUT
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1,Bein Sport HD11 EN 720P
+http://linux-app.tv:6204/MUHAMAD13929292/Mahshshshdj13333/28384
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - ELSHINTA" tvg-logo="" group-title="Local 2",Local - ELSHINTA
-http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1,BT SPORT 1
+http://163.172.224.60:9001/live.ts?channelId=138&deviceMac=00:1A:79:A3:D8:DF&uid=10555
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - JTV SURABAYA" tvg-logo="" group-title="Local 2",Local - JTV SURABAYAR
-http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,BT SPORT 3
+http://163.172.224.60:9001/live.ts?channelId=142&deviceMac=00:1A:79:A3:D8:DF&uid=10555
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - KITANESIA" tvg-logo="" group-title="Local 2",Local - KITANESIA
-http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
+#EXTINF:-1,REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - KLIK MUSIC" tvg-logo="" group-title="Local 2",Local - KLIK MUSIC
-http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/chunklist_w235696523.m3u8
+#EXTINF:-1,ESPN2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - MALEO CHANNEL" tvg-logo="" group-title="Local 2",Local - MALEO CHANNEL
-http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
+#EXTINF:-1,AD SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - NTV" tvg-logo="" group-title="Local 2",Local - NTV
-http://103.77.106.171:1935/live/liventv1/playlist.m3u8
+#EXTINF:-1,AD SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
+#EXTINF:-1,FIGHT SPORTS HD
+http://221.178.148.115:9981/stream/channelid/1749356553?profile=pass
 
-#EXTINF:0,SALURAN FILM INDONESIA
-http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
+#EXTINF:-1,FOX SPORTS 1
+http://221.178.148.115:9981/stream/channelid/1140464058?profile=pass
 
-#EXTINF:0,THE INDONESIA CHANNEL
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://221.178.148.115:9981/stream/channelid/1232604094?profile=pass
 
-#EXTINF:0,TVKU
-http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1,FOX SPORTS 3
+http://221.178.148.115:9981/stream/channelid/1262347504?profile=pass
 
-#EXTINF:0,TVRI SPORT
-http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+#EXTINF:-1,SKYNET SPORTS 1
+http://221.178.148.115:9981/stream/channelid/2131729618?profile=pass
 
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1856.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fashion TV HD" tvg-logo="" group-title="Entertainment",Fashion TV HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1871.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Channel V" tvg-logo="" group-title="Entertainment",Channel V
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2042.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MTV Asia" tvg-logo="" group-title="Entertainment",MTV Asia
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2041.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MTV Hits" tvg-logo="" group-title="Entertainment",MTV Hits
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2019.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MTV Live HD" tvg-logo="" group-title="Entertainment",MTV Live HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1978.ts
-#EXTINF:-1 tvg-ID="" tvg-name="K+" tvg-logo="" group-title="Korean",K+
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1994.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TvN HD" tvg-logo="" group-title="Korean",TvN HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1915.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M-NET" tvg-logo="" group-title="Korean",M-NET
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1980.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SBS IN HD" tvg-logo="" group-title="Korean",SBS IN HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1963.ts
-#EXTINF:-1 tvg-ID="" tvg-name="K Drama" tvg-logo="" group-title="Korean",K Drama
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1966.ts
-#EXTINF:-1 tvg-ID="" tvg-name="KBS World HD" tvg-logo="" group-title="Korean",KBS World HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1948.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arirang" tvg-logo="" group-title="Korean",Arirang
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1872.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids",Nickelodeon
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2016.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Kids",Cartoon Network HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2020.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IN TV" tvg-logo="" group-title="Kids",IN TV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1967.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel Junior (ID)" tvg-logo="" group-title="Kids",Disney Channel Junior (ID)
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1857.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Turbo HD" tvg-logo="" group-title="Education",Discovery Turbo HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2027.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="Education",Discovery Channel HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1907.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science HD" tvg-logo="" group-title="Education",Discovery Science HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1979.ts
-#EXTINF:-1 tvg-ID="" tvg-name="National Geographic Wild" tvg-logo="" group-title="Education",National Geographic Wild
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1940.ts
-#EXTINF:-1 tvg-ID="" tvg-name="National Geographic Channel HD" tvg-logo="" group-title="Education",National Geographic Channel HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1877.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CGTN Documentary" tvg-logo="" group-title="Education",CGTN Documentary
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2028.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Education",Animal Planet HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1933.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NHK World Japan" tvg-logo="" group-title="News International",NHK World Japan
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1982.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DW Channel" tvg-logo="" group-title="News International",DW Channel
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1983.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TLC HD" tvg-logo="" group-title="Entertainment",TLC HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2055.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AL Jazeera" tvg-logo="" group-title="News International",AL Jazeera
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1947.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony One HD" tvg-logo="" group-title="Entertainment",Sony One HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2049.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Channel HD" tvg-logo="" group-title="Entertainment",Sony Channel HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2050.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Lifetime HD" tvg-logo="" group-title="Movies",Lifetime HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2051.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Aniplus HD" tvg-logo="" group-title="Movies",Aniplus HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2052.ts
-#EXTINF:-1 tvg-ID="" tvg-name="WB TV" tvg-logo="" group-title="Movies",WB TV
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2046.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Hits" tvg-logo="" group-title="Movies",Hits
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2043.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="" group-title="Movies",AXN HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2045.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Animax HD" tvg-logo="" group-title="Movies",Animax HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2044.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Thrill ID" tvg-logo="" group-title="Movies",Thrill ID
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1962.ts
-#EXTINF:-1 tvg-ID="" tvg-name="KiX" tvg-logo="" group-title="Movies",KiX
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1960.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Celestial Classic Movies" tvg-logo="" group-title="Movies",Celestial Classic Movies
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2040.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Celestial Movies ID" tvg-logo="" group-title="Movies",Celestial Movies ID
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1961.ts
-#EXTINF:-1 tvg-ID="" tvg-name="History HD" tvg-logo="" group-title="Education",History HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1938.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="http://www.filflix.org/uploads/tv_image/fox-hd.jpg" group-title="Movies",FOX HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/4.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="Movies",HBO HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinemax HD" tvg-logo="" group-title="Movies",Cinemax HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2053.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Movies Premium HD" tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="Movies",Fox Movies Premium HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/2.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Action Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="Movies",Fox Action Movies HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/3.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Prive HD" tvg-logo="" group-title="Movies",Prive HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1993.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Flix HD" tvg-logo="" group-title="Movies",Flix HD
-http://iptv.elcodemedia.net:8118/live/z16IN5x9QC/WElJK8Q92F/1992.ts
+#EXTINF:-1,SKYNET SPORTS 2
+http://221.178.148.115:9981/stream/channelid/995885125?profile=pass
+
+#EXTINF:-1,SKYNET SPORTS 3
+http://221.178.148.115:9981/stream/channelid/1592443304?profile=pass
+
+#EXTINF:-1,SKYNET SPORTS 4
+http://221.178.148.115:9981/stream/channelid/774721098?profile=pass
+
+#EXTINF:-1,SKYNET SPORTS 5
+http://221.178.148.115:9981/stream/channelid/426904342?profile=pass
+
+#EXTINF:-1,SKYNET SPORTS 6
+http://221.178.148.115:9981/stream/channelid/285699748?profile=pass
+
+#EXTINF:-1,SKYNET SPORTS HD
+http://221.178.148.115:9981/stream/channelid/2013868628?profile=pass
+
+#EXTINF:-1,SKYNET SPORTS PLUS
+http://221.178.148.115:9981/stream/channelid/768345644?profile=pass
