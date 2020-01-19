@@ -9582,4 +9582,123 @@ http://95.170.215.118:80/hls/m3u8/Sky-MoviesFamily.m3u8
 http://95.170.215.118:80/hls/m3u8/Sky-MoviesPremie.m3u8
 #EXTINF:-1 group-title="MOVIE",VH1 movies
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
+#EXTINF:-1, == SULUK IPTV ==
+https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
+#EXTINF:-1,Suluk® → Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
+#EXTINF:-1,Suluk® → Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/04.m3u8
+#EXTINF:-1,Suluk® → Channel U
+https://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/04.m3u8
+#EXTINF:-1,Suluk® → Channel News Asia
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1,Suluk® → OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+#EXTINF:-1,Suluk® → MYTV
+http://103.242.13.90:5555/udp/239.4.1.56:10000
+#EXTINF:-1,Suluk® → CTN
+http://103.242.13.90:5555/udp/239.4.1.57:10000
+#EXTINF:-1,Suluk® → CNC
+http://103.242.13.90:5555/udp/239.4.1.55:10000
+#EXTINF:-1,Suluk® → MTV China
+http://103.242.13.90:5555/udp/239.4.1.71:10000
+#EXTINF:-1,Suluk® → RTM1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,Suluk® → RTM2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,Suluk® → TV3
+http://103.242.13.90:5555/udp/239.4.1.214:10000
+#EXTINF:-1,Suluk® → ASTRO SPORT
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+#EXTINF:-1,Suluk® → ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1,Suluk® → SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:-1,Suluk® → SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:-1,Suluk® → SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1,Suluk® → SONY TEN 2 HD
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
+#EXTINF:-1,Suluk® → SONY TEN 3 HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1,Suluk® → SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/index.m3u8
+#EXTINF:-1,Suluk® → DISCOVERY WORLD HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:-1,Suluk® → SONY MAX HD
+http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
+#EXTINF:-1,Suluk® → TLC HD WORLD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
+#EXTINF:-1,Suluk® → SONY LE PLEX HD
+http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
+#EXTINF:-1,Suluk® → AXN HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
+#EXTINF:-1,Suluk® → Sony Movie Channel
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Suluk® → AXN
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
+#EXTINF:-1,Suluk® → FOX MOVIE PREMIUM
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
+#EXTINF:-1,Suluk® → FOX MOVIES 
+http://210.210.155.35/session/b5f44c4a-7dac-11e8-98cf-b82a72d63267/uq2663/h/h14/02.m3u8
+#EXTINF:-1,Suluk® → FOX ACTION MOVIES
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/index1.m3u8
+#EXTINF:-1,Suluk® → FOX FAMILY MOVIES
+http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/index1.m3u8
+#EXTINF:-1,Suluk® → FOX LIFE
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
+#EXTINF:-1,Suluk® → KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index1.m3u8
+#EXTINF:-1,Suluk® → THRILL
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1,Suluk® → FOXLife
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1,Suluk® → KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1,Suluk® → THRILL
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1,Suluk® → ANIPLUS
+http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
 
+#EXTINF:-1,Suluk® → 电影台
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1,Suluk® → 台視無線台 
+https://livestream-udn.ivideosmart.com/ttvmainliveorigin/TTVMainStream/chunklist.m3u8
+#EXTINF:-1,Suluk® → CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1,Suluk® → 韩-SBS
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+
+#EXTINF:-1,Suluk® → TV Okey
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1,Suluk® → ASTRO GO SHOP
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8
+
+#EXTINF:-1,Suluk® → SURIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
+
+#EXTINF:-1,Suluk® → CHANNEL 5
+https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
+
+#EXTINF:-1,Suluk® → FTV UHD
+http://103.242.13.90:5555/udp/239.4.1.45:10000
+
+#EXTINF:-1,Suluk® → Fashion TV SD
+http://103.242.13.90:5555/udp/239.4.1.51:10000
+
+#EXTINF:-1,Suluk® → RT HD
+http://103.242.13.90:5555/udp/239.4.1.98:10000
+
+#EXTINF:-1,Suluk® → ASTRO AWANI
+http://lihattv.com/?play=43295
+
+#EXTINF:-1,Suluk® → TV9
+http://lihattv.com/?play=43128
+
+#EXTINF:-1,Suluk® → TV5_MONDE
+http://lihattv.com/?play=43408
+
+#EXTINF:-1,Suluk® → SETANTA
+http://103.242.13.90:5555/udp/239.4.1.132:10000
