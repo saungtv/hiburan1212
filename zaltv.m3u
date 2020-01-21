@@ -385,11 +385,6 @@ https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS",FOX SPORTS 3 HD
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"group-title="SPORT",Bein Sport 1
-https://proxy.cagriari.com/pass/BeinSport1.m3u8?insecure
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"group-title="SPORT",Bein Sport 2
-https://proxy.cagriari.com/pass/BeinSport2.m3u8?insecure
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 1 ID HD
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
