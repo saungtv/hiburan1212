@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INTRO",ZALTV CODE GENERATOR
-https://raw.githubusercontent.com:443/syukriadi66/code/master/Proyek_01-10_SD%20360p_(3).mp4
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
