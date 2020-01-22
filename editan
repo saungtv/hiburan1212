@@ -161,7 +161,7 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=C32A404A68C8618CEF3
 #EXTINF:-1 tvg-id="9ea370ce73cd5a22f3814b2e2ac02bbe"  group-title="INDIHOME",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=C480BB1911CCCE643C35E6E73DDFFA8D27A46725&profile=pass
 #EXTINF:-1 tvg-id="de8e3602ee1be5612d6121b293501f99"  group-title="INDIHOME",HBO HD
-http://203.153.218.28:9981/stream/channelid/37129950?ticket=B509A1BB73F54EF2322D9F6C435E4B134900ACCA&profile=pass
+http://203.207.56.228/live/iptv005.m3u8
 #EXTINF:-1 tvg-id="97187cf98cc3a3d2419955eea35c1bf5"  group-title="INDIHOME",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=A1241B3F1784A3E73CBB0409EE1EAD1DAF5579E9&profile=pass
 #EXTINF:-1 tvg-id="32105947315ce3717a05d57aa09ea673"  group-title="INDIHOME",HBO Signature
